@@ -4,13 +4,41 @@
     "href": "index.html",
     "title": "Mona Bekhit",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a Master’s student in Data Science in Computational Linguistics at the University of British Columbia (UBC). My interests lie at the intersection of data science, artificial intelligence, and language technologies, with a particular focus on how computational methods can help people communicate, learn, and access information more effectively.\nBefore joining UBC, I studied engineering in Egypt and worked as a Network Operations Center (NOC) Engineer, supporting enterprise networks and solving complex technical challenges. My professional experience sparked a growing interest in using data to understand patterns, generate insights, and support decision-making.\nI am also a co-founder of StreetKey, a data-driven platform that explores neighborhood livability and safety using structured and unstructured data. This experience strengthened my passion for analytics, machine learning, and human-centered technology."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Hello! I’m Mona Bekhit, a Master’s student in Data Science in Computational Linguistics at the University of British Columbia (UBC).\nI grew up in Egypt, where I studied engineering and began my career in networking and telecommunications. Over the years, I worked as a Network Operations Center (NOC) Engineer, supporting large-scale enterprise networks and solving complex technical problems. My experience ranged from troubleshooting and network optimization to customer support and system operations across multinational organizations.\nMy interest in data science grew from a desire to move beyond maintaining systems and toward extracting insights from data to solve real-world problems. I became fascinated by how data can be transformed into meaningful stories and actionable decisions. This interest eventually led me to co-found StreetKey, a data-driven platform that explores neighborhood livability and safety using both structured and unstructured data sources. Working on StreetKey strengthened my passion for analytics, machine learning, and the power of data to improve everyday life.\nToday, I’m pursuing Computational Linguistics because I’m particularly interested in the intersection of language, artificial intelligence, and human communication. I’m excited by the potential of natural language processing to help people access information, learn more effectively, and interact with technology in more natural ways.\nOutside of data science, I’m a mother, mother of two, and lifelong learner. I enjoy swimming, going to the gym, creating Arabic children’s storytelling content on YouTube, and experimenting with voice-over projects. I also like exploring new technologies, and spending quality time with my family around Canada.\nI’m always curious about how data, language, and technology can come together to create meaningful and human-centered solutions."
+  },
+  {
+    "objectID": "index.html#mona-bekhit",
+    "href": "index.html#mona-bekhit",
+    "title": "Mona Bekhit",
+    "section": "",
+    "text": "I am a Master’s student in Data Science in Computational Linguistics at the University of British Columbia (UBC). My interests lie at the intersection of data science, artificial intelligence, and language technologies, with a particular focus on how computational methods can help people communicate, learn, and access information more effectively.\nBefore joining UBC, I studied engineering in Egypt and worked as a Network Operations Center (NOC) Engineer, supporting enterprise networks and solving complex technical challenges. My professional experience sparked a growing interest in using data to understand patterns, generate insights, and support decision-making.\nI am also a co-founder of StreetKey, a data-driven platform that explores neighborhood livability and safety using structured and unstructured data. This experience strengthened my passion for analytics, machine learning, and human-centered technology."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mona Bekhit",
+    "section": "Education",
+    "text": "Education\nUniversity of British Columbia (UBC) | Vancouver, BC\nMaster of Data Science in Computational Linguistics | 2026 - Present\nUniversity of British Columbia (UBC) | Vancouver, BC\nEarly Childhood Education Certificate\nEngineering Degree | Egypt"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mona Bekhit",
+    "section": "Experience",
+    "text": "Experience\nStreetKey | Co-Founder\nNetwork Engineer | NCR Corporation\nSupported enterprise networking, troubleshooting, customer support, and operations across large-scale environments. and I am CCNA and CCNP certified"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Mona Bekhit",
+    "section": "Interests",
+    "text": "Interests\nOutside of academics, I am a mother of two, a lifelong learner, and an enthusiast of technology and creativity. I enjoy swimming, going to the gym, creating Arabic children’s storytelling content, experimenting with voice-over projects, and spending time with my family.\nI am always interested in exploring how data, language, and technology can come together to create meaningful and impactful solutions."
   }
 ]

@@ -1,7 +1,37 @@
 ---
 title: "Mona Bekhit"
+about:
+  template: broadside
+  image: images/mona profile.jpg
 ---
 
-This is a Quarto website.
+I am a Master's student in Data Science in Computational Linguistics at the University of British Columbia (UBC). My interests lie at the intersection of data science, artificial intelligence, and language technologies, with a particular focus on how computational methods can help people communicate, learn, and access information more effectively.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Before joining UBC, I studied engineering in Egypt and worked as a Network Operations Center (NOC) Engineer, supporting enterprise networks and solving complex technical challenges. My professional experience sparked a growing interest in using data to understand patterns, generate insights, and support decision-making.
+
+I am also a co-founder of StreetKey, a data-driven platform that explores neighborhood livability and safety using structured and unstructured data. This experience strengthened my passion for analytics, machine learning, and human-centered technology.
+
+## Education
+
+**University of British Columbia (UBC)** | Vancouver, BC  
+Master of Data Science in Computational Linguistics | 2026 - Present
+
+**University of British Columbia (UBC)** | Vancouver, BC  
+Early Childhood Education Certificate
+
+**Engineering Degree** | Egypt
+
+## Experience
+
+**StreetKey** | Co-Founder
+
+**Network Engineer** | NCR Corporation
+ 
+Supported enterprise networking, troubleshooting, customer support, and operations across large-scale environments.
+and I am CCNA and CCNP certified
+
+## Interests
+
+Outside of academics, I am a mother of two, a lifelong learner, and an enthusiast of technology and creativity. I enjoy swimming, going to the gym, creating Arabic children's storytelling content, experimenting with voice-over projects, and spending time with my family.
+
+I am always interested in exploring how data, language, and technology can come together to create meaningful and impactful solutions.
