@@ -1,0 +1,6 @@
+---
+title: "My first weeks in MDS"
+author: "Mona"
+date: 2026-09-09
+---
+![Orientation day on campus.](../../images/orientation.jpg){width=250px}
